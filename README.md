@@ -3,6 +3,14 @@ Welcome to my repository of basic Java programs! In this collection, you'll find
 
 
 # 1. Print Hello World in Java :panda_face:
+
+```java
+public class HelloWorld{
+public static void main(String[] args){
+System.out.println("HelloWorld");
+    }    
+}
+```
 public class HelloWorld{
 
 public static void main(String[] args){
