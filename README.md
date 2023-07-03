@@ -22,33 +22,7 @@ System.out.println("HelloWorld");
     
 }
 
-# 2. How to Write Your Name & Address In Java 	:koala:
-
-public class PostalAddress{
-
- public static void main(String[] args){
- 
-        String name = "Kirti";
-        
-        String street = "H.NO 3507A Banjarwara";
-        
-        String city = "Rewari";
-        
-        String state = "Haryana";
-        
-        String pincode = "123401";
-        
-System.out.println(name);
-
-System.out.println(street);
-
-System.out.println(city + ", " + state + " "+pincode);
-
-       }
-
-}
-
-# 3. How to Add & Product two Integers 	:panda_face:
+# 2. How to Add & Product two Integers 	:panda_face:
 
 #### The java.util package is a part of the Java Standard Library that provides a set of utility classes and interfaces for performing various tasks, such as manipulating arrays, working with dates, handling collections of objects, and more. It contains commonly used data structures like ArrayList, LinkedList, HashMap, HashSet, etc., which can be used to store and manipulate collections of objects.
 
@@ -85,7 +59,7 @@ System.out.println("Product of integers :",firstInt*SecondInt);
 } 
 
 
-# 4. How to Add & Product of two Integers :dog:
+# 3. How to Add & Product of two Integers :dog:
 
 public class SumProduct2 {
 
@@ -107,7 +81,7 @@ public class SumProduct2 {
      
 }
 
-# 5. How to check number is even or odd using if - else loop 	:smiley_cat:
+# 4. How to check number is even or odd using if - else loop 	:smiley_cat:
 
 import java.util.Scanner;
 
@@ -141,7 +115,7 @@ Scanner scanner = new Scanner(System.in);
   
 }
 
-# 6. How to Convert Celsius to Fahrenhiet 	:ghost:
+# 5. How to Convert Celsius to Fahrenhiet 	:ghost:
 
 import java.util.Scanner;
 
@@ -164,7 +138,7 @@ Scanner scanner = new Scanner(System.in);
 }
  
  
-# 7. How to find the Power of a Number :astonished:
+# 6. How to find the Power of a Number :astonished:
  
  public class Exponent{
  
@@ -194,7 +168,7 @@ System.out.println("The value of result is:" +result1);
 
 # Here is the Code :flushed: :-
 
-# 8. Find out Whether the number is prime or composite :sunglasses:
+# 7. Find out Whether the number is prime or composite :sunglasses:
 
 public class TypeofNumber{
 
